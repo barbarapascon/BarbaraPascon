@@ -27,12 +27,12 @@ const siteProps = {
   name: "Barbara Pascon",
   title: "Software Engineer",
   email: "barbarapascon@icloud.com",
-  gitHub: "https://github.com/barbarapascon",
-  instagram: "https://www.instagram.com/barbarapascon",
-  linkedIn: "https://www.linkedin.com/in/barbarapascon/",
-  medium: "https://medium.com/@barbarapascon",
+  gitHub: "barbarapascon",
+  instagram: "hbarbarapascon",
+  linkedIn: "barbarapascon/",
+  medium: "@barbarapascon",
   twitter: "@barbarapascon",
-  youTube: "https://www.youtube.com/@barbarapascon",
+  youTube: "@barbarapascon",
 };
 
 const primaryColor = "#7D4E7E";
